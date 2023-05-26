@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #bdc3c7;
+}
+
+main {
+    width: 100%;
+    
+}
+
+.container {
+    width: 50%;
+    margin: 200px auto;
+    text-align: center;
+}
+
+.container h2{
+    font-size: 40px;
+    padding: 10px;
+}
+
+.text {
+    font-size: 35px;
+    padding: 10px;
+}
+
+.buttons .btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background: #bdc3c7
+}
